@@ -4,7 +4,7 @@ Donate link: http://www.benhuson.co.uk/wordpress-plugins/remove-white-space/
 Tags: ie6, lists, white space, whitespace, wp_list_pages, wp_list_categories
 Requires at least: 2.8
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Removes white space from wp_list_pages and wp_list_categories (nice for IE6 - prevents gaps in vertical lists).
 
